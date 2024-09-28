@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<!-- add BUG_ID:DYLJ-87 huangyouzhong 20130722 (start) -->
+    <dimen name="widget_big_font_size">50dp</dimen>
+<!-- add BUG_ID:DYLJ-87 huangyouzhong 20130722 (end) -->
+</resources>

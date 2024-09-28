@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2011 The Android Open Source Project Licensed under the
+    Apache License, Version 2.0 (the "License"); you may not use this file
+    except in compliance with the License. You may obtain a copy of the
+    License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by
+    applicable law or agreed to in writing, software distributed under the
+    License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+    CONDITIONS OF ANY KIND, either express or implied. See the License for
+    the specific language governing permissions and limitations under the
+    License.
+-->
+<!--
+*History:
+*
+*1.yadong.qian@ragentek.com  BUG_IG:DYLJ-63  20130719
+*Description:Determine the conditions set homepage add value
+*
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--add  BUG_IG:DYLJ-63  qianyadong  20130719(start)-->
+    <!--"is_site_navigation" previously taken the name wrong, it should be "is_site_homepage".
+          Because there are many use, so the wrong-->
+    <bool name="is_site_navigation">true</bool>
+    <!--add  BUG_IG:DYLJ-63  qianyadong  20130719(end)-->
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="storage_withoutsd">O armazenamento do tablet não tem espaço suficiente. Favor, liberar um pouco de armazenamento ou insira um cartão SD.</string>
+<string name="storage_withsd">O armazenamento do tablet não tem espaço suficiente. Favor, liberar um pouco de armazenamento ou alterar o disco de gravação padrão nas configurações.</string>
+</resources>
